@@ -19,6 +19,8 @@ public partial class User
 
     public string Password { get; set; } = null!;
 
+    public string? Avatar { get; set; }
+
     public virtual ICollection<QuizResult> QuizResults { get; set; } = new List<QuizResult>();
 
     public virtual ICollection<Quiz> Quizzes { get; set; } = new List<Quiz>();
