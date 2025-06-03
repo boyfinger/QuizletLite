@@ -11,6 +11,8 @@ namespace API.Services
 
         Task<bool> CheckEmailExists(string email);
 
+        Task<bool> CheckUsernameExists(string username);
+
         Task<bool> UpdatePassword(int userId, string newPassword);
 
         Task<User?> GetUserById(int userId);

@@ -32,6 +32,11 @@ namespace API.Services
             return await _authRepository.CheckEmailExists(email);
         }
 
+        public async Task<bool> CheckUsernameExists(string username)
+        {
+            return await _authRepository.CheckUsernameExists(username);
+        }
+
         public async Task<User?> GetUserById(int userId)
         {
             return await _authRepository.GetUserById(userId);
@@ -42,7 +47,10 @@ namespace API.Services
             if (!registerDto.Password.Equals(registerDto.ConfirmPassword))
                 return false;
 
-            if (await _authRepository.CheckEmailExists(registerDto.Email))
+            if(await CheckUsernameExists(registerDto.Username)) 
+                return false;
+
+            if (await CheckEmailExists(registerDto.Email))
                 return false;
 
             var hashedPassword = EncodedString.HashPassword(registerDto.Password);
@@ -68,7 +76,6 @@ namespace API.Services
 
             return await _authRepository.UpdatePassword(userId, newHashedPassword);
         }
-
 
     }
 }
