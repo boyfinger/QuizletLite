@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Program Files\\Csharp projects\\QuizletLite\\API\\API.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Program Files\\Csharp projects\\QuizletLite\\API\\API.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program Files\\Csharp projects\\QuizletLite\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Program Files\\Csharp projects\\QuizletLite\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Quan Hao\\.nuget\\packages\\",
-        "outputPath": "E:\\Program Files\\Csharp projects\\QuizletLite\\API\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Quan Hao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,15 +45,37 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "UrlBase64": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -75,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

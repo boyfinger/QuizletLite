@@ -1,163 +1,188 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Program Files\\Csharp projects\\QuizletLite\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\hash\\encodedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\hash\\encodedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\hash\\checkhashed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\hash\\checkhashed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\iquizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\iquizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizdetails\\questionoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizdetails\\questionoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\services\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\services\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\services\\iquizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\services\\iquizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\quizresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\quizresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizdetails\\quizquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizdetails\\quizquestionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizdetails\\quizdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizdetails\\quizdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\mappers\\quizmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\mappers\\quizmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizsubmission\\submissionanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizsubmission\\submissionanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\quiz\\quizsubmission\\quizsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\quiz\\quizsubmission\\quizsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 77,
+          "SelectedChildIndex": 202,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:38:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:42:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -173,7 +198,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -257,7 +294,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -361,6 +406,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
@@ -417,6 +466,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
@@ -433,7 +486,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:38:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:69:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -485,6 +554,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:49:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
@@ -498,6 +571,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -517,11 +594,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -538,6 +627,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:29:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -589,7 +686,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:42:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:41:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -614,6 +719,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -693,6 +802,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:145:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
@@ -725,10 +838,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
@@ -737,7 +846,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -753,6 +874,26 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:26:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -761,11 +902,51 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -797,43 +978,514 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:58:44.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:39:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncodedString.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
+              "RelativeDocumentMoniker": "API\\Hash\\EncodedString.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
+              "RelativeToolTip": "API\\Hash\\EncodedString.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "API\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAD4vzAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:41:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:48:59.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA3wB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:07:33.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IAuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:04:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizletLiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\DAO\\QuizletLiteContext.cs",
+              "RelativeDocumentMoniker": "API\\DAO\\QuizletLiteContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\DAO\\QuizletLiteContext.cs",
+              "RelativeToolTip": "API\\DAO\\QuizletLiteContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwDcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:36:31.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckHashed.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
+              "RelativeDocumentMoniker": "API\\Hash\\CheckHashed.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
+              "RelativeToolTip": "API\\Hash\\CheckHashed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:32:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:48:59.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "API\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:58:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:43:36.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQuizResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizResultRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IQuizResultRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizResultRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IQuizResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:04:04.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuestionOptionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:01:47.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\QuizService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\QuizService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\QuizService.cs",
+              "RelativeToolTip": "API\\Services\\QuizService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:03:42.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizService.cs",
+              "RelativeToolTip": "API\\Services\\IQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:30:14.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQuizResultService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizResultService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\IQuizResultService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizResultService.cs",
+              "RelativeToolTip": "API\\Services\\IQuizResultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:07:49.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IQuizRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:01:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T09:20:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\QuizRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\QuizRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:02:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuizResultController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizResultController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\QuizResultController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizResultController.cs",
+              "RelativeToolTip": "API\\Controllers\\QuizResultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:40:53.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuizQuestionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:25:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:40:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Models\\Quiz.cs",
+              "RelativeToolTip": "API\\Models\\Quiz.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:11:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuizDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:25:37.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuizResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizResultRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\QuizResultRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizResultRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\QuizResultRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:03:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubmissionAnswerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:25:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuizSubmissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
+              "RelativeToolTip": "API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:25:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuizMappers.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Mappers\\QuizMappers.cs",
+              "RelativeDocumentMoniker": "API\\Mappers\\QuizMappers.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Mappers\\QuizMappers.cs",
+              "RelativeToolTip": "API\\Mappers\\QuizMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:01:41.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:06:31.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:06:29.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:06:29.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:05:43.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:05:15.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:06:42.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:06:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:05:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T10:26:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T09:44:07.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T09:04:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-01T09:23:04.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T09:04:54.06Z"
             }
           ]
         },
@@ -843,15 +1495,15 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:132:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -868,16 +1520,12 @@
           ]
         },
         {
-          "DockedWidth": 1304,
+          "DockedWidth": 1427,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
             },
             {
               "$type": "Bookmark",
@@ -954,10 +1602,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
