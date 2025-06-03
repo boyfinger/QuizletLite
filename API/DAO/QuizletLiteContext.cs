@@ -60,7 +60,7 @@ public partial class QuizletLiteContext : DbContext
             new Role { Id = 2, Role1 = "User" }
         );
 
-        modelBuilder.Entity<User>().HasData(//AnLT Đổi Tí Mật Khẩu, Mật Khẩu của chúng ta sẽ là mã hóa Bcrypt
+        modelBuilder.Entity<User>().HasData(//AnLT Đổi Tí Mật Khẩu, Mật Khẩu của chúng ta sẽ là mã hóa Bcrypt, mấy cái test này chỉ cần nhập 123
             new User { Id = 1, RoleId = 1, Email = "admin@email.com", Username = "admin", Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C", Avatar = null },
             new User { Id = 2, RoleId = 2, Email = "user1@email.com", Username = "user1", Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C", Avatar = null },
             new User { Id = 3, RoleId = 2, Email = "user2@email.com", Username = "user2", Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C", Avatar = null }

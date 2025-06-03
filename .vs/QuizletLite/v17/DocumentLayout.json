@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\admin_quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\admin_quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\hash\\encodedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\dao\\quizletlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\hash\\checkhashed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\repositories\\iquizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,10 +163,6 @@
       "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{570775A5-EDF9-4B03-9D7C-B1E000D9C601}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\github\\quizletlite\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4F131D7-7920-4EEA-9558-290DAD70859D}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -178,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 77,
-          "SelectedChildIndex": 202,
+          "SelectedChildIndex": 201,
           "Children": [
             {
               "$type": "Bookmark",
@@ -986,24 +990,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAABIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:58:44.225Z"
+              "WhenOpened": "2025-06-02T16:48:59.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "API\\Dtos\\User\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDTO.cs",
-              "RelativeToolTip": "API\\Dtos\\User\\RegisterDTO.cs",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T09:44:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\Admin_QuizController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\Admin_QuizController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\Admin_QuizController.cs",
+              "RelativeToolTip": "API\\Controllers\\Admin_QuizController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:44:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\RegisterDto.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T15:39:49.298Z",
@@ -1011,103 +1042,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EncodedString.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
-              "RelativeDocumentMoniker": "API\\Hash\\EncodedString.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
-              "RelativeToolTip": "API\\Hash\\EncodedString.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:16:35.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "API\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vzAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:41:34.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDTO.cs",
-              "RelativeDocumentMoniker": "API\\Dtos\\User\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\UserDTO.cs",
-              "RelativeToolTip": "API\\Dtos\\User\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:48:59.583Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthenticationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
-              "RelativeDocumentMoniker": "API\\Repositories\\AuthenticationRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
-              "RelativeToolTip": "API\\Repositories\\AuthenticationRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA3wB8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:07:33.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthenticationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
-              "RelativeDocumentMoniker": "API\\Repositories\\IAuthenticationRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
-              "RelativeToolTip": "API\\Repositories\\IAuthenticationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:04:25.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "QuizletLiteContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\DAO\\QuizletLiteContext.cs",
               "RelativeDocumentMoniker": "API\\DAO\\QuizletLiteContext.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\DAO\\QuizletLiteContext.cs",
               "RelativeToolTip": "API\\DAO\\QuizletLiteContext.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAkwDcAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwD4AAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:36:31.654Z"
+              "WhenOpened": "2025-06-01T09:36:31.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CheckHashed.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
-              "RelativeDocumentMoniker": "API\\Hash\\CheckHashed.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
-              "RelativeToolTip": "API\\Hash\\CheckHashed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:32:44.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "API\\Dtos\\User\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDTO.cs",
-              "RelativeToolTip": "API\\Dtos\\User\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:48:59.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "QuizController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\QuizController.cs",
@@ -1115,11 +1063,103 @@
               "RelativeToolTip": "API\\Controllers\\QuizController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:58:27.62Z"
+              "WhenOpened": "2025-06-01T12:58:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "API\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAD4vzAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:41:34.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:58:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncodedString.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
+              "RelativeDocumentMoniker": "API\\Hash\\EncodedString.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\EncodedString.cs",
+              "RelativeToolTip": "API\\Hash\\EncodedString.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:16:35.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA3wB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:07:33.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Repositories\\IAuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:04:25.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckHashed.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
+              "RelativeDocumentMoniker": "API\\Hash\\CheckHashed.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Hash\\CheckHashed.cs",
+              "RelativeToolTip": "API\\Hash\\CheckHashed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:32:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\User\\LoginDto.cs",
+              "RelativeToolTip": "API\\Dtos\\User\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:48:59.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -1127,11 +1167,12 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:43:36.052Z"
+              "WhenOpened": "2025-06-01T09:43:36.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IQuizResultRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizResultRepository.cs",
               "RelativeDocumentMoniker": "API\\Repositories\\IQuizResultRepository.cs",
@@ -1139,11 +1180,12 @@
               "RelativeToolTip": "API\\Repositories\\IQuizResultRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:04:04.632Z"
+              "WhenOpened": "2025-06-01T13:04:04.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "QuestionOptionDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
@@ -1151,11 +1193,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuestionOptionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:01:47.193Z"
+              "WhenOpened": "2025-06-01T13:01:47.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "QuizService.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\QuizService.cs",
               "RelativeDocumentMoniker": "API\\Services\\QuizService.cs",
@@ -1163,11 +1206,12 @@
               "RelativeToolTip": "API\\Services\\QuizService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:03:42.308Z"
+              "WhenOpened": "2025-06-01T13:03:42.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IQuizService.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizService.cs",
               "RelativeDocumentMoniker": "API\\Services\\IQuizService.cs",
@@ -1175,11 +1219,12 @@
               "RelativeToolTip": "API\\Services\\IQuizService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:30:14.814Z"
+              "WhenOpened": "2025-06-01T09:30:14.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IQuizResultService.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Services\\IQuizResultService.cs",
               "RelativeDocumentMoniker": "API\\Services\\IQuizResultService.cs",
@@ -1187,11 +1232,12 @@
               "RelativeToolTip": "API\\Services\\IQuizResultService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:07:49.888Z"
+              "WhenOpened": "2025-06-01T13:07:49.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IQuizRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\IQuizRepository.cs",
               "RelativeDocumentMoniker": "API\\Repositories\\IQuizRepository.cs",
@@ -1199,11 +1245,12 @@
               "RelativeToolTip": "API\\Repositories\\IQuizRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:01:30.287Z"
+              "WhenOpened": "2025-06-01T13:01:30.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "API",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
@@ -1214,7 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "QuizRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizRepository.cs",
               "RelativeDocumentMoniker": "API\\Repositories\\QuizRepository.cs",
@@ -1222,11 +1269,12 @@
               "RelativeToolTip": "API\\Repositories\\QuizRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:02:08.832Z"
+              "WhenOpened": "2025-06-01T13:02:08.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "QuizResultController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Controllers\\QuizResultController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\QuizResultController.cs",
@@ -1234,11 +1282,12 @@
               "RelativeToolTip": "API\\Controllers\\QuizResultController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:40:53.76Z"
+              "WhenOpened": "2025-06-02T09:40:53.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "QuizQuestionsDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
@@ -1246,11 +1295,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuizQuestionsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:25:38.438Z"
+              "WhenOpened": "2025-06-01T09:25:38.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "QuizDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDto.cs",
@@ -1258,11 +1308,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:40:06.345Z"
+              "WhenOpened": "2025-06-01T13:40:06.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Quiz.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Models\\Quiz.cs",
               "RelativeDocumentMoniker": "API\\Models\\Quiz.cs",
@@ -1270,11 +1321,12 @@
               "RelativeToolTip": "API\\Models\\Quiz.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:11:07.716Z"
+              "WhenOpened": "2025-06-01T13:11:07.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "QuizDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
@@ -1282,11 +1334,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizDetails\\QuizDetailsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:25:37.503Z"
+              "WhenOpened": "2025-06-01T09:25:37.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "QuizResultRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Repositories\\QuizResultRepository.cs",
               "RelativeDocumentMoniker": "API\\Repositories\\QuizResultRepository.cs",
@@ -1294,11 +1347,12 @@
               "RelativeToolTip": "API\\Repositories\\QuizResultRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:03:35.802Z"
+              "WhenOpened": "2025-06-01T13:03:35.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "SubmissionAnswerDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
@@ -1306,11 +1360,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizSubmission\\SubmissionAnswerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:25:36.105Z"
+              "WhenOpened": "2025-06-01T09:25:36.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "QuizSubmissionDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
@@ -1318,11 +1373,12 @@
               "RelativeToolTip": "API\\Dtos\\Quiz\\QuizSubmission\\QuizSubmissionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:25:33.965Z"
+              "WhenOpened": "2025-06-01T09:25:33.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "QuizMappers.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\Mappers\\QuizMappers.cs",
               "RelativeDocumentMoniker": "API\\Mappers\\QuizMappers.cs",
@@ -1330,11 +1386,12 @@
               "RelativeToolTip": "API\\Mappers\\QuizMappers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:01:41.897Z"
+              "WhenOpened": "2025-06-01T13:01:41.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\_Layout.cshtml",
@@ -1342,11 +1399,12 @@
               "RelativeToolTip": "WebApp\\Pages\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T11:06:31.221Z"
+              "WhenOpened": "2025-06-01T11:06:31.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
@@ -1354,11 +1412,12 @@
               "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T11:06:29.995Z"
+              "WhenOpened": "2025-06-01T11:06:29.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
@@ -1366,11 +1425,12 @@
               "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T11:06:29.128Z"
+              "WhenOpened": "2025-06-01T11:06:29.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Register.cshtml",
@@ -1378,11 +1438,12 @@
               "RelativeToolTip": "WebApp\\Pages\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T11:05:43.333Z"
+              "WhenOpened": "2025-06-01T11:05:43.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml",
@@ -1390,11 +1451,12 @@
               "RelativeToolTip": "WebApp\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T11:05:15.764Z"
+              "WhenOpened": "2025-06-01T11:05:15.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
@@ -1402,11 +1464,12 @@
               "RelativeToolTip": "WebApp\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T09:06:42.016Z"
+              "WhenOpened": "2025-06-01T09:06:42.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Register.cshtml.cs",
@@ -1414,11 +1477,12 @@
               "RelativeToolTip": "WebApp\\Pages\\Register.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T11:06:04.36Z"
+              "WhenOpened": "2025-06-01T11:06:04.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml.cs",
@@ -1426,11 +1490,12 @@
               "RelativeToolTip": "WebApp\\Pages\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T11:05:45.52Z"
+              "WhenOpened": "2025-06-01T11:05:45.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
@@ -1438,23 +1503,12 @@
               "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-01T10:26:01.768Z"
+              "WhenOpened": "2025-06-01T10:26:01.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-01T09:44:07.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\appsettings.json",
               "RelativeDocumentMoniker": "WebApp\\appsettings.json",
@@ -1462,11 +1516,12 @@
               "RelativeToolTip": "WebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-01T09:04:47.081Z"
+              "WhenOpened": "2025-06-01T09:04:47.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "API.http",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
@@ -1474,11 +1529,12 @@
               "RelativeToolTip": "API\\API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-01T09:23:04.307Z"
+              "WhenOpened": "2025-06-01T09:23:04.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "WebApp",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\QuizletLite\\WebApp\\WebApp.csproj",
               "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
