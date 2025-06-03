@@ -19,15 +19,14 @@ namespace API.Controllers
         public async Task<IActionResult> Login([FromQuery] LoginDTO loginDTO)
         {
             var userLogined = await _authenticationService.AuthenticateUser(loginDTO);
-            var userDTO = new UserDTO
+            if (userLogined != null) {
+                return Ok("Logined");
+            } else
             {
-                Id = userLogined.Id,
-                Username = userLogined.Username,
-                Email = userLogined.Email,
-                Avatar = userLogined.Avatar
-            };
+                return BadRequest("Can't login");
+            }
 
-            return Ok(userDTO);
+               
         }
 
         [HttpPost("register")]
