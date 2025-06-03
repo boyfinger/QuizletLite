@@ -48,6 +48,13 @@ public partial class QuizletLiteContext : DbContext
             .HasForeignKey(sa => sa.AnswerId)
             .OnDelete(DeleteBehavior.Restrict);
 
+        modelBuilder.Entity<Quiz>().
+            HasOne(q => q.CreatedByNavigation)
+            .WithMany(u => u.Quizzes)
+            .HasForeignKey(q => q.CreatedBy)
+            .OnDelete(DeleteBehavior.Restrict);
+
+
         modelBuilder.Entity<Role>().HasData(
             new Role { Id = 1, Role1 = "Admin" },
             new Role { Id = 2, Role1 = "User" }
