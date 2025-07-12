@@ -188,9 +188,6 @@ namespace API.Migrations
                     b.Property<int>("CreatedBy")
                         .HasColumnType("int");
 
-                    b.Property<int?>("CreatedByNavigationId")
-                        .HasColumnType("int");
-
                     b.Property<DateTime>("CreatedOn")
                         .HasColumnType("datetime2");
 
@@ -203,7 +200,7 @@ namespace API.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CreatedByNavigationId");
+                    b.HasIndex("CreatedBy");
 
                     b.ToTable("Quizzes");
 
@@ -212,7 +209,7 @@ namespace API.Migrations
                         {
                             Id = 1,
                             CreatedBy = 2,
-                            CreatedOn = new DateTime(2025, 6, 2, 18, 9, 9, 450, DateTimeKind.Local).AddTicks(822),
+                            CreatedOn = new DateTime(2025, 6, 3, 8, 54, 29, 169, DateTimeKind.Local).AddTicks(266),
                             IsActive = true,
                             Name = "General Knowledge Quiz"
                         },
@@ -220,7 +217,7 @@ namespace API.Migrations
                         {
                             Id = 2,
                             CreatedBy = 2,
-                            CreatedOn = new DateTime(2025, 6, 2, 18, 9, 9, 450, DateTimeKind.Local).AddTicks(832),
+                            CreatedOn = new DateTime(2025, 6, 3, 8, 54, 29, 169, DateTimeKind.Local).AddTicks(276),
                             IsActive = true,
                             Name = "Science Trivia"
                         },
@@ -228,7 +225,7 @@ namespace API.Migrations
                         {
                             Id = 3,
                             CreatedBy = 3,
-                            CreatedOn = new DateTime(2025, 6, 2, 18, 9, 9, 450, DateTimeKind.Local).AddTicks(833),
+                            CreatedOn = new DateTime(2025, 6, 3, 8, 54, 29, 169, DateTimeKind.Local).AddTicks(278),
                             IsActive = true,
                             Name = "History Challenge"
                         });
@@ -356,7 +353,7 @@ namespace API.Migrations
                         {
                             Id = 1,
                             Email = "admin@email.com",
-                            Password = "123",
+                            Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C",
                             RoleId = 1,
                             Username = "admin"
                         },
@@ -364,7 +361,7 @@ namespace API.Migrations
                         {
                             Id = 2,
                             Email = "user1@email.com",
-                            Password = "123",
+                            Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C",
                             RoleId = 2,
                             Username = "user1"
                         },
@@ -372,7 +369,7 @@ namespace API.Migrations
                         {
                             Id = 3,
                             Email = "user2@email.com",
-                            Password = "123",
+                            Password = "$2a$12$6GMyaacdt22VmPBouyUnB.e/4guoGG09ukoXkx/eb02bKcwokoy9C",
                             RoleId = 2,
                             Username = "user2"
                         });
@@ -412,7 +409,9 @@ namespace API.Migrations
                 {
                     b.HasOne("API.Models.User", "CreatedByNavigation")
                         .WithMany("Quizzes")
-                        .HasForeignKey("CreatedByNavigationId");
+                        .HasForeignKey("CreatedBy")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.Navigation("CreatedByNavigation");
                 });

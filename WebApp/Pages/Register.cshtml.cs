@@ -5,8 +5,14 @@ namespace WebApp.Pages
 {
     public class RegisterModel : PageModel
     {
-        public void OnGet()
+        public IActionResult OnGet()
         {
+            return Page();
+        }
+
+        public IActionResult OnPost()
+        {
+            return Page();
         }
     }
 }
